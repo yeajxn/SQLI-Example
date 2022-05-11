@@ -1,0 +1,19 @@
+<h1>Users</h1>
+<a href="{{url_for('home')}}">Back</a>
+<br>
+<br>
+
+<table>
+    <thead>
+        <td>Name</td>
+    </thead>
+    <tbody>
+        {% for name in names %}
+            <tr>
+                <td>
+                    {{ name[0] }}
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
