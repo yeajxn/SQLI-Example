@@ -3,13 +3,16 @@ Quick showcase for SQL Injection with a Flask site and SQLiteDB
 
 ># Setup
 >1. Clone this repository
+>>git clone https://github.com/yeajxn/sqli-example.git
 >   
 >2. Setup python virtual environment  
 >>python3 -m venv venv
 >  
->3. . venv/bin/activate
+>3. Activate Virtual Environment
+>>. venv/bin/activate
 >  
->4. pip install -r requirements.txt
+>4. Install requirements
+>>pip install -r requirements.txt
 >
 >5. Run run.py  
 >>python run.py
