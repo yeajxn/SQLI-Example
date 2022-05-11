@@ -1,8 +1,8 @@
 # sqli-example
 Quick showcase for SQL Injection with a Flask site and SQLiteDB
 
->># Setup
-=======
+> # Setup
+> =======
 >1. Clone this repository
 >   
 >2. Setup python virtual environment  
