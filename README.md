@@ -1,5 +1,5 @@
 # sqli-example
-Quick showcase for SQL Injection with a Flask site and SQLiteDB
+Quick showcase for SQL Injection with a Flask and SQLiteDB
 
 ># Setup
 >1. Clone this repository  
